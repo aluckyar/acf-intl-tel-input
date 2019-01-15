@@ -3,6 +3,7 @@
 /*
 Plugin Name: Advanced Custom Fields: International Telephone Input
 Plugin URI: https://github.com/jonyhayama/acf-intl-tel-input
+GitHub Plugin URI: https://github.com/jonyhayama/acf-intl-tel-input
 Description: Adds International Telephone Input to ACF.
 Version: 1.0.0
 Author: Jony Hayama
